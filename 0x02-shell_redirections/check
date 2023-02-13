@@ -1,0 +1,16 @@
+total 56
+-rw-r--r-- 1 root root 30 Feb 13 13:03 0-hello_world
+-rw-r--r-- 1 root root 55 Feb 13 14:22 10-no_more_js
+-rw-r--r-- 1 root root 35 Feb 13 14:33 11-directories
+-rw-r--r-- 1 root root 28 Feb 13 13:08 1-confused_smiley
+-rw-r--r-- 1 root root 28 Feb 13 13:10 2-hellofile
+-rw-r--r-- 1 root root 37 Feb 13 13:12 3-twofiles
+-rw-r--r-- 1 root root 34 Feb 13 13:14 4-lastlines
+-rw-r--r-- 1 root root 34 Feb 13 13:14 5-firstlines
+-rw-r--r-- 1 root root 40 Feb 13 13:37 6-third_line
+-rw-r--r-- 1 root root 72 Feb 13 13:40 7-file
+-rw-r--r-- 1 root root 36 Feb 13 14:07 8-cwd_state
+-rw-r--r-- 1 root root 13 Feb 13 14:12 9-duplicate_last_line
+-rw-r--r-- 1 root root  0 Feb 13 14:38 check
+-rw-r--r-- 1 root root 27 Feb 13 13:15 README.md
+-rw-r--r-- 1 root root 35 Feb 13 14:08 testerfile
